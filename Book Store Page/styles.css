@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #1b1b1b;
+}
+
+.popular-book-main-heading {
+    margin-left: 10px;
+    text-align: left;
+    font-size: 25px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+}
+
+.container-image {
+    height: 180px;
+    width: 120px;
+}
+
+.txt-container {
+    background-color: #e6f6ff;
+    font-family: "Bree Serif";
+    margin-left: 12px;
+    margin-top: 15px;
+    border-radius: 6px;
+    text-align: left;
+}
+
+
+.txt-container-heading {
+    font-size: 20px;
+    color: #183b56;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.txt-container-heading2 {
+    font-size: 14px;
+    color: #06070d;
+    margin-left: 10px;
+}
+
+.txt-container-para {
+    color: #183b56;
+    font-size: 10px;
+    margin-left: 10px;
+}
+
+.Read-now-button {
+    margin-left: 10px;
+    font-size: 12px;
+    font-family: "Roboto";
+}
+
+.recommended-books {
+    padding: 20px;
+    background-color: #1b1b1b;
+    margin-left: 10px;
+}
+
+.recommended-books-main-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 18px;
+
+}
+
+.recommended-books-img {
+    height: 120px;
+    width: 80px;
+}
+
+.recommended-books-txt-container {
+    font-family: "Bree Serif";
+    padding: 10px;
+}
+
+.recommended-books-name {
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.recommended-books-para {
+    color: #9aa5b1;
+    font-size: 12px;
+
+}
+
+.book {
+    font-family: "Bree Serif";
+    text-align: center;
+    padding: 25px;
+    background-color: #1b1b1b;
+}
+
+.book-image {
+    height: 260px;
+    width: 170px;
+}
+
+.book-name {
+    color: #ffffff;
+    font-size: 26px;
+}
+
+.book-author {
+    color: #9aa5b1;
+    font-size: 12px;
+}
+
+.book-details {
+    color: #e4e7eb;
+    text-align: left;
+    font-size: 13px;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.back-button {
+    margin-right: 5px;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.buy-now-button {
+    font-family: "Roboto";
+    font-size: 15px;
+}
