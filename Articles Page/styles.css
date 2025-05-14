@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #225db0;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    padding: 20px;
+}
+
+.articles-page-main-heading {
+    color: #ffffff;
+    font-size: 30px;
+    text-align: left;
+}
+
+.articles-page-para {
+    color: #ffffff;
+    font-size: 15px;
+    text-align: left;
+}
+
+.article-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+    height: 80px;
+    width: 130px;
+    text-align: center;
+    margin: 8px;
+}
+
+.containers {
+    padding: 20px;
+}
+
+.article-container-image {
+    height: 30px;
+    width: 30px;
+}
+
+.article-container-image-name {
+    font-size: 13px;
+    font-weight: 500;
+}
+
+/*Technology Page*/
+.technology-bg-container {
+    background-color: #225db0;
+    background-size: cover;
+    padding: 20px;
+}
+
+.list-of-topics {
+    color: #ffffff;
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+.unordered-list {
+    color: #ffffff;
+}
+
+.list-items {
+    padding: 5px;
+}
+
+.button {
+    text-align: center;
+}
+
+.back-button {
+    border-color: #ffffff;
+    color: #ffffff;
+    background-color: #225db0;
+}
