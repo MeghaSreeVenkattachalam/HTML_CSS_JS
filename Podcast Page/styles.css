@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container-home-page {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 50vh;
+    background-size: cover;
+}
+
+.main-heading-home-page {
+    color: #ffffff;
+    font-family: "Roboto";
+    padding: 20px;
+    font-size: 30px;
+}
+
+.image {
+    height: 100px;
+    width: 125px;
+}
+
+.podcast-home-page {
+    font-family: "Roboto";
+    padding: 30px;
+}
+
+.name-home-page {
+    color: #151765;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.episode-home-page {
+    color: #5a7184;
+    font-size: 15px;
+}
+
+.podcasters-home-page {
+    padding: 10px;
+    text-align: center;
+}
+
+/* Podcasters individual page*/
+
+.individual-podcasters-bg-container {
+    font-family: "Roboto";
+}
+
+.text-bg-container {
+    background-color: #151765;
+    padding: 20px;
+}
+
+.text-bg-containers-individual {
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.text-container {
+    margin-left: 10px;
+}
+
+.Podcast {
+    color: #ffffff;
+    font-size: 12px;
+}
+
+.podcasters-name {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.podcasters-para {
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.podcasters-podcast-name {
+    color: #151765;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.podcasters-podcast-discription {
+    font-size: 14px;
+    color: #5a7184;
+}
+
+.podcasters-podcast-timing {
+    font-size: 12px;
+    color: #151765;
+}
+
+.button {
+    background-color: #151765;
+    color: #ffffff;
+    padding: 2px;
+    border-radius: 20px;
+    width: 90px;
+    margin-bottom: 10px;
+}
